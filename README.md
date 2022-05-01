@@ -3,4 +3,6 @@ My personal draw.io repo
 
 ## FlowCharts
 
-1. BoxSup Algorithm [repo](?)
+| **Name** | **Repo** | **PDF** | 
+|----------|----------|---------|
+| BoxSup Algorithm | [repo](?) | [BoxSup.drawio.pdf](BoxSup.drawio.pdf) |
